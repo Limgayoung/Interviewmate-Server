@@ -3,9 +3,9 @@
 사용자가 선택한 CS 키워드와 제출한 포트폴리오를 기반으로 면접 질문을 생성하고 이를 기반으로 모의 면접을 진행하는 서비스
 > 기간: 2023.03 ~ 2023.06 (4개월)  
 팀원: Android 1명, Backend 2명, AI 2명  
-개발 언어: Kotlin  
-프레임워크: Android  
-기술 스택: MVVM, Clean Architecture, Multi Module, Hilt, Flow, Retrofit, ViewPager, RecyclerView 
+개발 언어: Java  
+프레임워크: Spring Boot
+기술 스택: Spring, JPA, EC2, RDS, S3, CodeDeploy, Flask, Docker
 
 ## 최종 발표영상
 [![Video Label](http://img.youtube.com/vi/xyYDRaRKeB4/0.jpg)](https://youtu.be/xyYDRaRKeB4)
