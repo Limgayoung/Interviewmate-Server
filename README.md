@@ -4,8 +4,8 @@
 > 기간: 2023.03 ~ 2023.06 (4개월)  
 팀원: Android 1명, Backend 2명, AI 2명  
 개발 언어: Java  
-프레임워크: Spring Boot
-기술 스택: Spring, JPA, EC2, RDS, S3, CodeDeploy, Flask, Docker
+프레임워크: Spring Boot  
+기술 스택: Spring, JPA, EC2, RDS, S3, CodeDeploy, Flask, Docker  
 
 ## 최종 발표영상
 [![Video Label](http://img.youtube.com/vi/xyYDRaRKeB4/0.jpg)](https://youtu.be/xyYDRaRKeB4)
